@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "osoba": {
+            "ime": "Joseph",
+            "prezime": "Corbin"
+        },
+        "slika" : {
+            "src": "img/bg-img/team1.png",
+            "alt": "Joseph Corbin - founder"
+        },
+        "pozicija": "CEO & Founder"
+    },
+    {
+        "id": 2,
+        "osoba": {
+            "ime": "Tasha",
+            "prezime": "Desherio"
+        },
+        "slika" : {
+            "src": "img/bg-img/team2.png",
+            "alt": "Tasha Desherio - designer"
+        },
+        "pozicija": "Garden Designer"
+    },
+    {
+        "id": 3,
+        "osoba": {
+            "ime": "Cody",
+            "prezime": "Baker"
+        },
+        "slika" : {
+            "src": "img/bg-img/team3.png",
+            "alt": "Cody Baker - manager"
+        },
+        "pozicija": "Plan Manager"
+    },
+    {
+        "id": 4,
+        "osoba": {
+            "ime": "Pearl",
+            "prezime": "Kansas"
+        },
+        "slika" : {
+            "src": "img/bg-img/team4.png",
+            "alt": "Pearl Kansas - marketer"
+        },
+        "pozicija": "Marketer"
+    }
+]

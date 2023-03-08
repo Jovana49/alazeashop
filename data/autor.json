@@ -1,0 +1,15 @@
+[
+    {
+        "ime": "Jovana",
+        "prezime": "Kurtic",
+        "indeks": {
+            "broj": 49,
+            "godina": 20
+        },
+        "slika": {
+            "src": "img/bg-img/jovanakurtic.jpg",
+            "alt": "Autor - Jovana Kurtic"
+        },
+        "opis": "My name is Jovana Kurtić (49/20). I'm web developer that's currently studying at ICT College and constantly improving her skills so my overview will always be updated. So far I've only had a few projects. I'm skilled in HTML, CSS, BOOTSTRAP and SASS. I work with passion and I'm always trying to make a friendly relationship with my clients because that way we can all work more efficiently and make faster and flawless results! If you're interested, feel free to contact me."
+    }
+]

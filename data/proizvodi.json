@@ -1,0 +1,119 @@
+[
+    {
+        "id" : 1,
+        "idKat": [1,3],
+        "naziv" : "Cactus Flower",
+        "slika": "img/bg-img/40.png",
+        "cena" : {
+            "stara": 14.99,
+            "nova": 10.99
+        },
+        "hot": false,
+        "datum": "2022-09-01",
+        "kolicina":1
+    },
+    {
+        "id" : 2,
+        "idKat": [1,3],
+        "naziv" : "Tulip Flower",
+        "slika": "img/bg-img/41.png",
+        "cena" : {
+            "stara": null,
+            "nova": 11.99
+        },
+        "hot": false,
+        "datum": "2022-10-10",
+        "kolicina":1
+    },
+    {
+        "id" : 3,
+        "idKat": [1,3],
+        "naziv" : "Recuerdos Plant",
+        "slika": "img/bg-img/42.png",
+        "cena" : {
+            "stara": 10.99,
+            "nova": 9.99
+        },
+        "hot": true,
+        "datum": "2022-01-12",
+        "kolicina":1
+    },
+    {
+        "id" : 4,
+        "idKat": [1,2],
+        "naziv" : "Tree of happiness",
+        "slika": "img/bg-img/43.png",
+        "cena" : {
+            "stara": 16.50,
+            "nova": 12.00
+        },
+        "hot": false,
+        "datum": "2022-12-01",
+        "kolicina":1
+    },
+    {
+        "id" : 5,
+        "idKat": [1,2],
+        "naziv" : "Money tree",
+        "slika": "img/bg-img/44.png",
+        "cena" : {
+            "stara": null,
+            "nova": 13.99
+        },
+        "hot": true,
+        "datum": "2022-11-09",
+        "kolicina":1
+    },
+    {
+        "id" : 6,
+        "idKat": [1,2],
+        "naziv" : "Tree of life",
+        "slika": "img/bg-img/45.png",
+        "cena" : {
+            "stara": null,
+            "nova": 15.00
+        },
+        "hot": true,
+        "datum": "2021-12-12",
+        "kolicina":1
+    },
+    {
+        "id" : 7,
+        "idKat": [1,2],
+        "naziv" : "Violet",
+        "slika": "img/bg-img/46.png",
+        "cena" : {
+            "stara": 6.50,
+            "nova": 5.99
+        },
+        "hot": false,
+        "datum": "2021-09-05",
+        "kolicina":1
+    },
+    {
+        "id" : 8,
+        "idKat": [1,3],
+        "naziv" : "House palm",
+        "slika": "img/bg-img/47.png",
+        "cena" : {
+            "stara": null,
+            "nova": 11.99
+        },
+        "hot": true,
+        "datum": "2022-06-06",
+        "kolicina":1
+    },
+    {
+        "id" : 9,
+        "idKat": [1,3],
+        "naziv" : "Bird of paradise",
+        "slika": "img/bg-img/48.png",
+        "cena" : {
+            "stara": 13.50,
+            "nova": 11.99
+        },
+        "hot": false,
+        "datum": "2021-09-08",
+        "kolicina":1
+    }
+]

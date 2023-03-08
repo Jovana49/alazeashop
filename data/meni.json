@@ -1,0 +1,32 @@
+[
+    {
+        "id" : 1,
+        "tekst" : "Home",
+        "href": "index.html"
+    },
+    {
+        "id" : 2,
+        "tekst" : "About",
+        "href": "about.html"
+    },
+    {
+        "id" : 3,
+        "tekst" : "Shop",
+        "href": "shop.html"
+    },
+    {
+        "id" : 4,
+        "tekst" : "Author",
+        "href": "author.html"
+    },
+    {
+        "id" : 5,
+        "tekst" : "Contact",
+        "href": "contact.html"
+    },
+    {
+        "id" : 6,
+        "tekst" : "Documentation",
+        "href": "Dokumentacija - sajt.pdf"
+    }
+]
